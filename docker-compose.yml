@@ -1,7 +1,7 @@
 version: '2'
 
 services:
-   devcontainer:
+   7d2dcontainer:
      container_name: sdtdserver
      build:
        context: .
